@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Orlova Lida
+- 👀 I’m interested in Testing (Automation) and Databases
+- 🌱 I’m currently learning SQL and Java
+- 💞️ I’m looking to collaborate with experienced software developers
+- 📫 My Email: orlovlida@gmail.com
